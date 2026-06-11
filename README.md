@@ -216,29 +216,6 @@ Results are saved and displayed in History and Dashboard.
 
 ---
 
-# 📸 Screenshots
-
-Add screenshots here:
-
-### Dashboard
-
-### Interview Session
-
-### Interview Report
-
-### History Page
-
----
-
-# 🎥 Demo
-
-Add your project demo video link here.
-
-Example:
-
-```text
-https://your-demo-video-link
-```
 
 ---
 
