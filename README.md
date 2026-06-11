@@ -217,7 +217,7 @@ Results are saved and displayed in History and Dashboard.
 ---
 
 
----
+
 
 # 🔮 Future Enhancements
 
